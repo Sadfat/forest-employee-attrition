@@ -1,0 +1,38 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output figures (generated at runtime)
+*.png
+*.jpg
+*.jpeg
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# IDE
+.vscode/
+.idea/
